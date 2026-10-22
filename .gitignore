@@ -1,0 +1,6 @@
+node_modules/
+*.tgz
+backup-*/
+TEST-REPORT.md
+.DS_Store
+Thumbs.db
